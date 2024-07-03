@@ -21,16 +21,16 @@ python keras_server.py
 Some screenshots:
 <br>
 ### Homepage
-![Homepage](/images/1.jpg)
+![Homepage](/output/1.jpg)
 
 ### Login page
-![Log in](/images/2.jpg)
+![Log in](/output/2.jpg)
 
 ### Sign up page
-![Sign up](/images/3.jpg)
+![Sign up](/output/3.jpg)
 
 ### Successful login
-![Dashboard](images/4.jpg)
+![Dashboard](output/4.jpg)
 
 #### References:
 - Code for Facenet model is based on the assignment from Convolutional Neural Networks Specialization by Deeplearning.ai on Coursera.<br>
